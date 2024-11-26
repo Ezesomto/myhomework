@@ -1,0 +1,93 @@
+.father{
+    background-color: rgba(255, 255, 255,0.8);
+    width: 75%;
+    height: 45px;
+    border-radius: 8px;
+    display: flex;
+}
+.son1{
+    width: 35%;
+    height: 450px;
+    border-radius: 10px;
+    border: 1px solid rgb(245, 238, 238);
+    box-shadow: 10px 10px 5px lightblue;
+}
+h3{
+    word-spacing: 130px;
+}
+h1{
+    font-size: 50px;
+}
+i{
+    word-spacing: 50px;
+}
+button{
+    border-color:black;
+    background-color: rgba(18, 17, 17, 0.9);
+    border-radius: 15px;
+    margin: 50px;
+}
+.reaction{
+    width: 87%;
+    height: 45px;
+    border-radius: 5px;
+    margin-right: 150px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding-top: 2px;
+    padding-bottom: 5px;
+}
+.memory{
+    width: 87%;
+    height: 45px;
+    border-radius: 5px;
+    margin-right: 150px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding-top: 3px;
+    padding-bottom: 4px;
+}
+
+.verbal{
+    width: 87%;
+    height: 45px;
+    border-radius: 5px;
+    margin-right: 150px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.visual{
+    width: 87%;
+    height: 45px;
+    border-radius: 5px;
+    margin-right: 150px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.son2{
+    width: 35%;
+    height: 450px;
+    border-radius: 16px;
+
+}
+.gson1{
+    width: 150px;
+    border-radius: 50%;
+    height: 150px;
+    display: inline-block;
+}
+.gson2{
+    margin: 100px;
+}
+h5{
+    font-size: 15px;
+}
