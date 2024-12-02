@@ -1,0 +1,30 @@
+.father{
+    width: 100%;
+    display: flex;
+
+}
+.son1{
+    background-color: bisque;
+    width: 40%;
+    margin-left: 25px;
+    height: 480px;
+    border-radius: 8px;
+
+}
+.son2{
+    background-color: rgb(253, 252, 251);
+    width: 40%;
+    height: 480px;
+    border-radius: 8px;
+}
+h3{
+    letter-spacing: 2px;
+}
+button{
+    padding: 15px;
+    border-radius: 8px;
+}
+img{
+    border-radius: 8px;
+
+}
